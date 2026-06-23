@@ -220,11 +220,17 @@
   .mt-\[560px\] {
     margin-top: 560px;
   }
+  .mt-\[px\] {
+    margin-top: px;
+  }
   .ml-\[10px\] {
     margin-left: 10px;
   }
   .ml-\[20px\] {
     margin-left: 20px;
+  }
+  .ml-\[30px\] {
+    margin-left: 30px;
   }
   .ml-\[60px\] {
     margin-left: 60px;
@@ -256,6 +262,12 @@
   .h-\[30px\] {
     height: 30px;
   }
+  .h-\[35px\] {
+    height: 35px;
+  }
+  .h-\[36px\] {
+    height: 36px;
+  }
   .h-\[40px\] {
     height: 40px;
   }
@@ -286,6 +298,9 @@
   .h-\[640px\] {
     height: 640px;
   }
+  .h-\[700px\] {
+    height: 700px;
+  }
   .h-\[720px\] {
     height: 720px;
   }
@@ -297,6 +312,9 @@
   }
   .h-\[900px\] {
     height: 900px;
+  }
+  .h-\[1000px\] {
+    height: 1000px;
   }
   .h-\[1240px\] {
     height: 1240px;
@@ -312,6 +330,9 @@
   }
   .h-\[1700px\] {
     height: 1700px;
+  }
+  .w-\[00px\] {
+    width: 00px;
   }
   .w-\[15px\] {
     width: 15px;
@@ -330,6 +351,18 @@
   }
   .w-\[100px\] {
     width: 100px;
+  }
+  .w-\[110px\] {
+    width: 110px;
+  }
+  .w-\[120px\] {
+    width: 120px;
+  }
+  .w-\[130px\] {
+    width: 130px;
+  }
+  .w-\[140px\] {
+    width: 140px;
   }
   .w-\[150px\] {
     width: 150px;
@@ -355,6 +388,9 @@
   .w-\[300px\] {
     width: 300px;
   }
+  .w-\[310px\] {
+    width: 310px;
+  }
   .w-\[350px\] {
     width: 350px;
   }
@@ -363,6 +399,27 @@
   }
   .w-\[500px\] {
     width: 500px;
+  }
+  .w-\[700px\] {
+    width: 700px;
+  }
+  .w-\[800px\] {
+    width: 800px;
+  }
+  .w-\[900px\] {
+    width: 900px;
+  }
+  .w-\[1000px\] {
+    width: 1000px;
+  }
+  .w-\[1100px\] {
+    width: 1100px;
+  }
+  .w-\[1200px\] {
+    width: 1200px;
+  }
+  .w-\[1420px\] {
+    width: 1420px;
   }
   .max-w-\[500px\] {
     max-width: 500px;
@@ -424,6 +481,9 @@
   }
   .bg-\[\#5EB083\] {
     background-color: #5EB083;
+  }
+  .bg-\[\#E7EEFA\] {
+    background-color: #E7EEFA;
   }
   .bg-\[\#FFBB8A\] {
     background-color: #FFBB8A;
@@ -529,6 +589,9 @@
   }
   .text-\[\#5EB083\] {
     color: #5EB083;
+  }
+  .text-\[\#32333D\] {
+    color: #32333D;
   }
   .text-\[\#CAD3E0\] {
     color: #CAD3E0;
