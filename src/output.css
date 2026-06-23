@@ -298,11 +298,17 @@
   .table {
     display: table;
   }
+  .h-\[0px\] {
+    height: 0px;
+  }
   .h-\[00px\] {
     height: 00px;
   }
   .h-\[6\] {
     height: 6;
+  }
+  .h-\[10px\] {
+    height: 10px;
   }
   .h-\[30px\] {
     height: 30px;
@@ -328,8 +334,20 @@
   .h-\[60px\] {
     height: 60px;
   }
+  .h-\[80px\] {
+    height: 80px;
+  }
   .h-\[100px\] {
     height: 100px;
+  }
+  .h-\[130px\] {
+    height: 130px;
+  }
+  .h-\[180px\] {
+    height: 180px;
+  }
+  .h-\[200px\] {
+    height: 200px;
   }
   .h-\[300px\] {
     height: 300px;
@@ -343,6 +361,9 @@
   .h-\[400px\] {
     height: 400px;
   }
+  .h-\[440px\] {
+    height: 440px;
+  }
   .h-\[500px\] {
     height: 500px;
   }
@@ -351,6 +372,9 @@
   }
   .h-\[550px\] {
     height: 550px;
+  }
+  .h-\[570px\] {
+    height: 570px;
   }
   .h-\[600px\] {
     height: 600px;
@@ -382,6 +406,9 @@
   .h-\[1100px\] {
     height: 1100px;
   }
+  .h-\[1200px\] {
+    height: 1200px;
+  }
   .h-\[1240px\] {
     height: 1240px;
   }
@@ -397,11 +424,17 @@
   .h-\[1700px\] {
     height: 1700px;
   }
+  .h-\[3000px\] {
+    height: 3000px;
+  }
   .h-\[10000px\] {
     height: 10000px;
   }
   .w-\[00px\] {
     width: 00px;
+  }
+  .w-\[10\%\] {
+    width: 10%;
   }
   .w-\[15px\] {
     width: 15px;
@@ -501,6 +534,9 @@
   }
   .w-\[500px\] {
     width: 500px;
+  }
+  .w-\[600px\] {
+    width: 600px;
   }
   .w-\[700px\] {
     width: 700px;
@@ -631,6 +667,9 @@
   .rounded {
     border-radius: 0.25rem;
   }
+  .rounded-\[10px\] {
+    border-radius: 10px;
+  }
   .rounded-\[15px\] {
     border-radius: 15px;
   }
@@ -694,6 +733,9 @@
   }
   .bg-no-repeat {
     background-repeat: no-repeat;
+  }
+  .pt-\[10px\] {
+    padding-top: 10px;
   }
   .pt-\[20px\] {
     padding-top: 20px;
@@ -788,6 +830,9 @@
   .text-\[\#5EB083\] {
     color: #5EB083;
   }
+  .text-\[\#325B65\] {
+    color: #325B65;
+  }
   .text-\[\#32333D\] {
     color: #32333D;
   }
@@ -802,6 +847,9 @@
   }
   .text-\[gray\] {
     color: gray;
+  }
+  .text-\[red\] {
+    color: red;
   }
   .text-\[white\] {
     color: white;
